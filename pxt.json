@@ -1,0 +1,15 @@
+{
+    "name": "pxt-platformer111",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
